@@ -33,7 +33,7 @@
     6.Test performance
     7.Finally, it will show the best model with accuracy score
 
-  **7. Model Selection**
+  7. Model Selection
       1.From the ranked models, select the first one (highest accuracy).
       2.Click Save As → Model.
       3.Select Model → Create (not Notebook, since no code is needed).
